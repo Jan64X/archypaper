@@ -1,11 +1,11 @@
-# 🐧 ArchPapers
+#  ArchPapers
 
 Some **Snazzy** [Wallpapers](img) for Arch Linux and a [CLI tool](CLI.md) to create your own!
 (You can use any logo, not just the Arch Linux one)
 
-### [🖼 Download Images](https://connorcode.com/files/Photos/ArchPapers.zip)
+### [ Download Images](https://connorcode.com/files/Photos/ArchPapers.zip)
 
-### [🚀 Generate Your Own](CLI.md)
+### [ Generate Your Own](CLI.md)
 
 <br>
 
