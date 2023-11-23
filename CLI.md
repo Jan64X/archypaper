@@ -11,13 +11,6 @@
 $ cargo install arch_papers
 ```
 
-### Download a Binary
-
-Head over to [Releases](https://github.com/Basicprogrammer10/ArchPapers/releases) and download the executable.
-
-Bonus points if you verify it with GPG.
-My key is [here](https://connorcode.com/key.asc).
-
 ## Usage
 
 Running with the flag `--help` will show the following help message
