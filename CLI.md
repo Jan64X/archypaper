@@ -1,4 +1,4 @@
-# 🚀 ArchPapers-CLI
+#  ArchPapers-CLI
 
 ## Installation
 
